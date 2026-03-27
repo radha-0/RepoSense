@@ -4,7 +4,7 @@
 
 RepoSense is a smart CLI tool that analyzes any public GitHub repository and gives you a quality score (0–100), a letter grade, and actionable suggestions to improve your project's presentation.
 
-Built for students, hackathon participants, and anyone who wants their GitHub profile to stand out.
+Built for students, hackathon participants, ametuer developers and anyone who wants their GitHub profile to stand out.
 
 ---
 
